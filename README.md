@@ -36,5 +36,5 @@
 <h4>Step 4</h4>
 - Publish the repository from the GitHub app onto GitHub.com
 - Open GitHub app and commit the changes you made in the README so that it merges with the main branch.
-<br>
+>br<
 -**Source for glossary** - https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/github-glossary#merge-conflict 
