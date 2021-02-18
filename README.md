@@ -14,9 +14,6 @@
 - **Pull** - When you make the changes and merge them into a local copy to keep it updated.
 - **Remote** - Version of a repository or branch that is hosted on a server.
 - **Repository** - Contains all project files and is the most basic GitHub element.
-
-- **Source for glossary** - https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/github-glossary#merge-conflict 
-
       
 ##GitHub Tutorial
 
@@ -39,3 +36,5 @@
 <h4>Step 4</h4>
 - Publish the repository from the GitHub app onto GitHub.com
 - Open GitHub app and commit the changes you made in the README so that it merges with the main branch.
+
+**Source for glossary** - https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/github-glossary#merge-conflict 
